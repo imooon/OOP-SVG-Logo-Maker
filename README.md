@@ -2,6 +2,12 @@
 
 ## Description
 
+#### This Node.js command-line application, the SVG Logo Maker, empowers users to create customized logos effortlessly. It features a selection of Triangle, Circle, and Square shapes, with a parent Shape class for shared functionality. Users choose colors and input text, generating SVG logos saved as .svg files for versatile usage.
+
+## Implementation:
+
+#### Implemented in Node.js, the SVG Logo Maker employs readline for user input and Jest for shape class testing. By offering a simple yet powerful tool for logo creation, it enables users to unleash their creativity in branding, marketing, or personal projects, simplifying the logo design process into a streamlined command-line experience.
+
 ## User Story
 
 #### AS a freelance web developer
