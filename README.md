@@ -1,5 +1,11 @@
 # Object-oriented Programming Challenge: SVG Logo Maker
 
+![Screenshot 2024-06-02 123155](https://github.com/imooon/OOP-SVG-Logo-Maker/assets/110244046/2d9f76b6-23d6-460f-b586-b561cbcd5a1b)
+
+![Screenshot 2024-06-02 123229](https://github.com/imooon/OOP-SVG-Logo-Maker/assets/110244046/b5dadd11-b08d-4bd3-a12a-997c6aa17197)
+
+![Screenshot 2024-06-02 123249](https://github.com/imooon/OOP-SVG-Logo-Maker/assets/110244046/9b71511d-4733-464e-828c-b184ddf5e0c2)
+
 ## Description
 
 #### This Node.js command-line application, the SVG Logo Maker, empowers users to create customized logos effortlessly. It features a selection of Triangle, Circle, and Square shapes, with a parent Shape class for shared functionality. Users choose colors and input text, generating SVG logos saved as .svg files for versatile usage.
